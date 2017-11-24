@@ -1,0 +1,21 @@
+﻿//char QT = '"';
+//String strJson = null;
+//StringBuilder sb = new StringBuilder();
+
+//sb.Append("[");
+//sb.Append("{");
+//sb.Append(QT + "name" + QT + ": " + QT + "Media Relations" + QT + ",");
+//sb.Append(QT + "email" + QT + ": " + QT + "press@udemy.com" + QT + ",");
+//sb.Append(QT + "notes" + QT + ": " + QT + "Member of the media? We'd love to hear from you." + QT);
+//sb.Append("},{");
+//sb.Append(QT + "name" + QT + ": " + QT + "Business Development" + QT + ",");
+//sb.Append(QT + "email" + QT + ": " + QT + "bizdev@udemy.com" + QT + ",");
+//sb.Append(QT + "notes" + QT + ": " + QT + "For general business development inquiries." + QT);
+//sb.Append("}]");
+//strJson = sb.ToString();
+
+//Dictionary<string, string>[] contacts = JsonConvert.DeserializeObject<Dictionary<string, string>[]>(strJson);
+
+	//string str = contacts[0]["name"];
+//StreamReader read = new StreamReader(input);
+//string jsonInput = read.ReadToEnd();
